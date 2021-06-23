@@ -1,0 +1,22 @@
+title: Oscailte
+subtitle: 'A powerful, clean, and responsive Jekyll theme.'
+author: GitHub User
+email: your-email@example.com
+description: >-
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: ''
+url: ''
+show_excerpts: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-feed
+permalink: '/blog/:year/:month/:day/:title/'
+oscailte:
+  google_analytics: UA-36133007-3
+  social:
+    github: jekyll
+    twitter: coog_ie
+    rss: rss
